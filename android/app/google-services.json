@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488800670689",
+    "project_id": "indinews-5db95",
+    "storage_bucket": "indinews-5db95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488800670689:android:df615ca9167606bb0df8a0",
+        "android_client_info": {
+          "package_name": "com.indinews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488800670689-dljuhg0k36lc6j2b81as047up3q20n0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsltktW5Tk0AotVPYbX6zUT5JhSQTSORM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488800670689-dljuhg0k36lc6j2b81as047up3q20n0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
